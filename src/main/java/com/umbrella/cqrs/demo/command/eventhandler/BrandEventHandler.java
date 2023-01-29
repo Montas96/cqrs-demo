@@ -1,4 +1,4 @@
-package com.umbrella.cqrs.demo.eventhandler;
+package com.umbrella.cqrs.demo.command.eventhandler;
 
 import com.umbrella.cqrs.demo.event.BrandCreatedEvent;
 import com.umbrella.cqrs.demo.models.Brand;

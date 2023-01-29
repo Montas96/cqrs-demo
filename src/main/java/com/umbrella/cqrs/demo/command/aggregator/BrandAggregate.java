@@ -1,4 +1,4 @@
-package com.umbrella.cqrs.demo.aggregator;
+package com.umbrella.cqrs.demo.command.aggregator;
 
 import com.umbrella.cqrs.demo.command.CreateBrandCommand;
 import com.umbrella.cqrs.demo.event.BrandCreatedEvent;
